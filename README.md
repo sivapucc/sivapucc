@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sivapucc
 - 👀 I’m interested in software Development.
 - 🌱 I’m currently learning Full Stack Development-(Mern Stack)
-- 💞️ I’m currently for the oppurtunity as front-end intership..
+- 💞️ I’m currently for the oppurtunity as front-end internship..
 - 📫 How to reach me sivapucc@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
